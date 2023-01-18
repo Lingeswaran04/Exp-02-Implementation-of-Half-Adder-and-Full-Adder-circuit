@@ -42,13 +42,29 @@ Developed by:
 RegisterNumber:  
 */
 Logic symbol & Truthtable
+![image](https://user-images.githubusercontent.com/119103865/213090700-466c3b77-e71f-430b-a534-6c85a8e7715f.png)
+
 RTL realization
 
 ### Output:
 ### RTL
-### TIMING DIAGRAM
+half adder
+![image](https://user-images.githubusercontent.com/119103865/213090787-b126c567-f9ec-4b4e-8933-44cac622c3e8.png)
 
+full adder
+![image](https://user-images.githubusercontent.com/119103865/213090828-f82427fd-a956-4c27-bc1e-b1984f30c433.png)
+
+### TIMING DIAGRAM
+half adder
+![image](https://user-images.githubusercontent.com/119103865/213090924-b667bb0f-6126-426c-9509-526c44119917.png)
+full adder
+![image](https://user-images.githubusercontent.com/119103865/213090985-c2afdfcf-c3fe-4b76-8d55-eba69f5ccab3.png)
 
 ### TRUTH TABLE 
+half adder
+![image](https://user-images.githubusercontent.com/119103865/213091047-df66f658-f164-438b-9a2b-fa7370e91385.png)
+full adder
+![image](https://user-images.githubusercontent.com/119103865/213091091-be01e733-0d78-49c3-9ec3-ce34872e6a32.png)
 
 ### Result:
+Thus the different digital IC's are studied and the truth table for differnt logic gates are verified.
